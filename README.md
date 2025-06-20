@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @NasorHidar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Nasor Hidar — an IT student and cybersecurity enthusiast passionate about full-stack development and secure system design.
 
-<!---
-NasorHidar/NasorHidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Currently working with:
+
+🌐 MERN Stack (MongoDB, Express, React, Node.js)
+
+⚡ Real-time systems using Socket.IO
+
+🔐 Exploring web application security, authentication, and encryption
+
+📚 Learning Java, Algorithms, and Defensive Programming
+
+🚀 Recent Project:
+Private Messaging System – A real-time chat app with JWT auth and Socket.IO, built with security in mind.
+
+🛡️ Cybersecurity Interests:
+
+Secure authentication & session management
+
+Preventing XSS, CSRF, and SQLi
+
+Understanding OWASP Top 10
+
+📫 Let’s connect and collaborate!
+https://www.linkedin.com/in/nasor-hidar-758842266/
+🔍 Always learning, building, and securing.
