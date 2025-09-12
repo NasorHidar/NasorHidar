@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nasor Hidar
 
-🎓 IT Student | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Developer
+🎓 IT Student | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Learner 
 
 ---
 
